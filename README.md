@@ -1,3 +1,3 @@
-# this git proje
+# hello-world
 
-# used for parctice
+# this is for a trial for git project
